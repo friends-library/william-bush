@@ -80,6 +80,9 @@ In a letter to Daniel Wheeler, after alluding to some particulars of a dream,
 which had afforded him much comfort and instruction, he thus wrote, Eighth Month 25th,
 1834.
 
+[.embedded-content-document.letter]
+--
+
 This dream has worked wonderfully on my mind ever since.
 I don`'t know that I ever spent watch without thinking
 of the goodness of my great Protector towards me;
@@ -89,7 +92,12 @@ the more it brings to my mind my wickedness in my youthful days.
 I find I am in darkness.
 In hopes to get light (when I go to my berth) instead of sleep, it is prayer and tears.
 
+--
+
 The day after, he writes again to Daniel Wheeler, as follows:
+
+[.embedded-content-document.letter]
+--
 
 Since God has been pleased to strike the blow with my flinty heart,
 and the tinder is kindling, I hope to catch with the match,
@@ -107,8 +115,14 @@ My heart is full; it gives me vent by this.
 Pray, Sir, excuse my liberty.
 I should be glad to say more, but time is short.
 
+--
+
 Daniel Wheeler replied as follows, Eighth Month 27th, 1834.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Bush.
 
 The letter which thou thyself handed to me on the morning of the 25th instant,
@@ -182,17 +196,30 @@ I can feel for thy situation, as one that has been himself under the same condem
 and knows what he says,--that it is the Lord that
 hath visited thee with the day-spring from on high.
 
+[.signed-section-closing]
 Thy sincere friend and soul`'s well-wisher,
 
+[.signed-section-signature]
 Daniel Wheeler.
+
+[.postscript]
+====
 
 I have received thy letter this morning by the steward.
 Write to me as often as thou likes, though I may not be able to answer in return,
 the motion of the vessel makes it so difficult to write.
 
+====
+
+--
+
 The following letter to Daniel Wheeler appears to have been commenced by William Bush,
 before he received the above, during the morning watch, Eighth Month 27th.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Sir,
 
 This is the morning`'s thought and deed.
@@ -219,7 +246,9 @@ But why wonder at that?
 The Lord is as able to satisfy me in one half hour with sleep,
 as He was to satisfy the multitude with the five barley loaves and the two fishes.
 The mercies of the Lord are coming to me minutely (every minute?),
-and his wonderful works.`"
+and his wonderful works.
+
+--
 
 William Bush then proceeds to relate a remarkable preservation
 which he had experienced some years before,
@@ -231,6 +260,9 @@ but I would not look on Him.
 Oh God, forgive a wretched sinner that I am.`"
 
 On the night of Eighth Month 27th, he again writes:
+
+[.embedded-content-document.letter]
+--
 
 From 8 to 12 P. M. watch on deck.
 The night is rugged--the Lord has been kindly with me,
@@ -259,8 +291,14 @@ Thursday, 28th, A. M. I feel confidence that the Lord will forgive me, and pardo
 Sir, if you have any old books that will afford one glimmer to this precious light,
 I should be very thankful for them.
 
+--
+
 The following reply was sent by Daniel Wheeler, Eighth Month, 29th:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Bush.
 
 I am comforted to find from thy letter, sent this morning by the steward,
@@ -299,8 +337,8 @@ but the Holy Scriptures.
 This would be safe,
 because the main object and bent of the Scriptures is to turn the people to Christ Jesus.
 I consider thy desire to read is a very plausible snare,
-laid by thy soul`'s great enemy to draw the attention of thy mind without thee,
-from the light of Christ within thee;
+laid by thy soul`'s great enemy to draw the attention of thy mind _without_ thee,
+from the light of Christ _within_ thee;
 and then his crafty purpose would be fully answered,
 for Satan well knows that he will soon lose all his power over thee,
 if thou steadfastly follow this light,
@@ -321,9 +359,9 @@ See his own gracious invitation in Matt.
 11th chap., 28th verse,
 "`Come unto me all ye that labour and are heavy laden (with the weight of sin and iniquity),
 and I will give you rest.
-Take my yoke upon you, and learn of me, for I am meek and lowly in heart,
+Take my yoke upon you, and _learn_ of me, for I am meek and lowly in heart,
 and ye shall find rest unto your souls, for my yoke is easy, and my burden light.`"
-We must come to Him, and learn of Him, the meekness and lowliness of heart,
+We must come to Him, and _learn_ of Him, the meekness and lowliness of heart,
 which alone can procure rest unto our souls.
 Now, any book or thing which is suffered to divert the attention
 of thy mind from the precious light of Christ within thee,
@@ -334,11 +372,20 @@ and Satan will again prevail over thee.
 I hope thou wilt see the tempting snare, which is laid for thee,
 and therefore "`watch in this light.`"
 
+[.signed-section-closing]
 Thy sincere Friend,
 
+[.signed-section-signature]
 Daniel Wheeler.
 
+[.postscript]
+====
+
 Take sufficient food and rest--in short, take care of thyself.
+
+====
+
+--
 
 In this letter, the true wisdom of the writer is strikingly observable,
 and his right concern,
@@ -361,6 +408,10 @@ God which taketh away the sin of the world.`"
 Eighth Month 31st, 1834.
 William Bush again addressed Daniel Wheeler, in reply to his last letter:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear sir,
 
 I received your letter by the steward, on the 29th, and was very thankful for it.
@@ -382,11 +433,16 @@ She was a member of a Baptist chapel for years before my time.
 The night before her death, she sent for all my brothers and sisters;
 then telling the eldest to take his pen, and set down how all things were to be,
 and wishing my sister to keep on the house,
-that the straggling sheep may always have a home to come to.`'`"
+that the straggling sheep may always have a home to come to.
+
+--
 
 He then alludes to the happiness of his mother, in the prospect of death, and continues:
 
-"`Oh! what a blessing is that to be ready when called for.
+[.embedded-content-document.letter]
+--
+
+Oh! what a blessing is that to be ready when called for.
 I promise you, Sir, that my daily prayer is to the Almighty God, to keep me in Truth,
 and from the power of Satan; Matt. 7:7. "`Ask, and it shall be given you; seek,
 and ye shall find; knock, and it shall be opened unto you.`"
@@ -394,9 +450,13 @@ Again, in 8th verse, "`For every one that asketh receiveth, and he that seeketh 
 and to him that knocketh, it shall be opened.`"
 Sir, I return my hearty thanks for your kindness, and may God reward you.
 
+[.signed-section-closing]
 Your humble servant,
 
+[.signed-section-signature]
 William Bush.
+
+--
 
 Whilst the Henry Freeling was at Hobart Town,
 William Bush attended diligently the little Meeting
@@ -413,9 +473,9 @@ and quickly discovered the glimmering of the fires of the natives on the shore.
 It proved, that the vessel had been driven by a current too close to the land;
 and from the direction in which she was standing,
 would have been on the rocks in a few minutes, but for this circumstance.
-The occurrence is alluded to at p. 289, D. Wheeler`'s Journal,
+The occurrence is alluded to at p. 289, [.book-title]#D. Wheeler`'s Journal,#
 but W. Bush is not there mentioned as the instrument of deliverance.^
-footnote:[See also James Backhouse`'s Australian Narrative, p. 231.]
+footnote:[See also James Backhouse`'s [.book-title]#Australian Narrative,# p. 231.]
 
 From this period, we know but little of what passed in William Bush`'s mind,
 till the Twelfth Month of the same year, when being at Sydney,
@@ -423,13 +483,17 @@ he had leave of absence for a short time.
 Whilst on shore,
 a secret impression on his mind induced him to follow a woman of respectable appearance,
 to a place of worship, where he heard a sermon preached by Dr. Marshall,
-at that time surgeon on board the Alligator, sloop of war.
+at that time surgeon on board the _Alligator,_ sloop of war.
 The discourse was very applicable to the state of William Bush`'s mind,
 and was quite a comfort to him.
 We have not been able to meet with a letter,
 which he wrote to Daniel Wheeler on this subject, and to which the following is a reply,
 dated Twelfth Month 17th, 1834:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To William Bush,
 
 The letter thou sent me by the steward, conveyed information, which is very comforting,
@@ -448,7 +512,7 @@ He ascended up on high; He led captivity captive, and received gifts for men,
 for the rebellious also, that the Lord God might dwell among them.
 
 In order to come to a better acquaintance with the Holy Spirit,
-we must give up ourselves wholly to its sure and certain guidance,
+we must give up ourselves _wholly_ to its sure and certain guidance,
 for it is the whole heart which the Lord requireth of us;
 a divided heart he will not accept.
 And what we go to meeting for, is to wait upon God in spirit, who is a Spirit,
@@ -485,13 +549,21 @@ and finally make us more than conquerors over all our souls`' enemies,
 through the Holy Spirit of Him who loved us,
 and washed us from our sins in his own blood.
 
+[.signed-section-closing]
 Thy sincere Friend,
 
+[.signed-section-signature]
 Daniel Wheeler.
+
+--
 
 After the foregoing we have no letter of William Bush`'s till the Third Month 24th, 1835,
 when he again wrote to Daniel Wheeler.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Sir,
 
 My heart has been desirous to speak to you, but the way has not been clear.
@@ -509,13 +581,18 @@ he kept his own log-book of the course of the Henry Freeling.]
 but I am about to learn the course and distance to
 that heavenly port of everlasting rest.
 
-Dear Sir, I find great benefit in reading Piety Promoted;
+Dear Sir, I find great benefit in reading [.book-title]#Piety Promoted;#
 and being sensible you lent me that book for the good of my poor sinful soul, I, Sir,
 return my most humble thanks.
+
+--
 
 He then goes on to state, how much he had been impressed with a portion of Scripture,
 which Daniel Wheeler had read to them on the preceding First-day, so much so,
 that he had left his berth and told a fellow-sailor his opinion respecting it; and adds,
+
+[.embedded-content-document.letter]
+--
 
 Again I talked of the Almighty power of God;
 how he was able to build up and to pull down; as king Herod, how he was eaten of worms;
@@ -524,10 +601,17 @@ and how God raised Peter up out of the strong prison; and many more things.
 And I felt the Lord blessed me in spirit, and I had a fine night.
 Oh, that I may live to worship the Almighty God in spirit and in truth.
 
+[.signed-section-signature]
 W+++.+++ Bush.
+
+--
 
 Daniel Wheeler wrote the following reply on the same day:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To William Bush,
 
 I am glad to find by thy note of this morning,
@@ -569,14 +653,24 @@ And as we thus walk in the spirit, we shall not fulfill the lusts of the flesh: 
 Watch and pray,`' (the only sure protection against the wiles of the devil,
 which our Lord Himself enjoined,) "`lest ye enter into temptation.`"
 
+[.signed-section-closing]
 Thy sincere Friend,
 
+[.signed-section-signature]
 Daniel Wheeler.
 
+[.signed-section-context-close]
 24th of Third Month, 1835.
+
+[.postscript]
+====
 
 P+++.+++ S.--Apply to me at any time,
 and I will endeavour to render thee all the information in my power.
+
+====
+
+--
 
 The next day, William Bush communicated a dream by letter to Daniel Wheeler,
 which had been very significant to his own mind.
@@ -590,6 +684,10 @@ which suffereth long and is kind,`' and which ever waiteth graciously with outst
 arms to welcome with heavenly rejoicing the poor lost wanderer,
 that he may return, repent and live, the following lines were penned in answer:`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Bush.
 
 Be assured, that thy writing of the Lord`'s mercies, instead of offending,
@@ -643,11 +741,16 @@ and--mind--understandeth the imagination of the thoughts.
 If we seek Him, He will be found of us; but if we forsake Him, He will forsake us,
 and cast us off forever.
 
+[.signed-section-closing]
 Thy sincere Friend,
 
+[.signed-section-signature]
 Daniel Wheeler.
 
+[.signed-section-context-close]
 26th of Third Month, 1835.
+
+--
 
 About five months after this, when off the island of Tahiti,
 William Bush`'s health became so seriously affected,
@@ -746,8 +849,13 @@ In the Seventh Month, 1840, the writer became acquainted with the subject of thi
 on the occasion of his informing him by letter of the death of Daniel Wheeler;
 when he received the following reply.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 July 20th, 1840
 
+[.salutation]
 Dear Sir,
 
 After reading your kind letter on the 17th,
@@ -763,9 +871,13 @@ all Friends for what they have done for me.
 Sir, should next First-day be convenient, and God willing,
 I should be very happy to wait upon you.
 
+[.signed-section-closing]
 I remain your humble servant,
 
+[.signed-section-signature]
 William Bush.
+
+--
 
 He came as proposed, and was deeply affected by hearing what was communicated,
 in reference to one so justly dear to him; so tenderly indeed did he love him,
@@ -795,8 +907,13 @@ In the autumn of 1840, William Bush was visited by an illness, which threatened 
 at which time, the following letter, which strikingly exhibits the assurance of faith,
 was received from him.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Blackwall, October 14th, 1840.
 
+[.salutation]
 Dear Friend,
 
 Having been afflicted with a rapid fever, I write to inform you of the state of my mind,
@@ -811,10 +928,18 @@ and being able to take hold of the hope that is set before me in the Gospel,
 I rejoice with joy unspeakable and full of glory.
 O, may the Spirit of Truth be with you, and all your dear family.
 
+[.signed-section-signature]
 William Bush.
+
+[.postscript]
+====
 
 May the Lord bless you all for his own name`'s sake.
 Farewell all; if you see me again in the flesh, it must be quick.
+
+====
+
+--
 
 After such an account, I hastened to see him:
 and never shall I forget the peaceful--the joyful state of his mind; indeed,
@@ -840,7 +965,11 @@ He replied, "`I do not, but I must enjoy it whilst it is so.`"
 From a letter received two days after, the following is extracted; being very weak,
 he had written it in pencil:
 
-Dear friend
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear friend,
 
 Having, through divine power strength this morning to write to you,
 I feel very thankful to Him who does all things well.
@@ -863,7 +992,10 @@ and when I awoke, I had to declare it was like sleeping in the arms of Jesus.
 No more at present; but praise the Lord, oh my soul, and all that is within me,
 praise His holy name.
 
+[.signed-section-closing]
 The Lord be with thy whole house.
+
+--
 
 On another visit to him, six or seven days after the former, I found him much recovered,
 and in the same peaceful and happy state of mind;
@@ -876,8 +1008,13 @@ was not permitted to continue without intermission;
 but he had again to experience the hiding of God`'s countenance,
 that he might know that all his fresh springs were in Him alone.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Blackwall, 11th November, 1840.
 
+[.salutation]
 Dear Friend,
 
 Though I have not written to you, since I saw thee,
@@ -897,7 +1034,7 @@ But when I look at Job`'s saying, "`Shall we receive good at the hand of the Lor
 and shall we not receive evil?
 This is, indeed, a lesson for me, to know the believer`'s path is not all sunshine.
 
-I must again thank thee for that little treasure, called Shewen`'s Meditations,
+I must again thank thee for that little treasure, called [.book-title]#Shewen`'s Meditations,#
 after reading which, and studying for myself, I feel convinced, we can with God`'s help,
 and must, before we can enter the kingdom, live without sin.
 Last week, two friends came to see me--our discourse was upon sin.
@@ -912,10 +1049,12 @@ and my Saviour`'s--not that He would take me out of the world, but keep me from 
 I have made bold to lend your book to one who had much desire to read it,
 with the promise of much care.
 
+--
+
 William Bush, one day, called on a Friend,
 for the express purpose of knowing what was the belief of the Society,
 on the doctrine of freedom from sin,
-manifesting great astonishment at having unexpectedly found,
+manifesting great astonishment at having _unexpectedly_ found,
 that any who had felt the power of religion in his own soul,
 could entertain even a doubt on the subject; and he was still more astonished to find,
 that most of the "`different churches`" believed in the
@@ -925,15 +1064,20 @@ his countenance seemed to beam with a hallowed joy, and he said,
 with a tone of evident satisfaction, "`I thought Mr. Wheeler did not think so,`"--adding,
 with an emphasis, to which no description can do justice, "`What! am I,
 who served the devil so many years, to continue to do so till the end of my days?
-Cannot my Lord and Master make me as much His servant, as I have been that of the devil?
+Cannot my Lord and Master make me as much _His_ servant, as I have been that of the devil?
 I cannot argue on the subject, but I do not find such, a thing in the Scriptures;
-neither am I told so here,`" laying his hand on his breast.
+neither am I told so __here,__`" laying his hand on his breast.
 He quoted the passages,
 "`I press towards the mark for the prize of the high calling of God in
 Christ Jesus,`" and "`His servants we are to whom we obey,`" etc. etc.
 
+[.offset]
 He again writes under date of January 4, 1841.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend,
 
 I received your kind letter and parcel,
@@ -963,8 +1107,10 @@ and that I never thought of it in all that time,
 until the Lord told me all things that ever I did.
 
 I return the book of J. Pike, which I have read with much interest,
-and our dearest friend, Daniel Wheeler`'s Journal, as my friend,
+and our dearest friend, Daniel Wheeler`'s [.book-title]#Journal,# as my friend,
 W+++.+++ M. made me a present of one, which I prize much.
+
+--
 
 By the foregoing letter,
 we see that William Bush was advancing in the spiritual life himself,
@@ -1012,6 +1158,9 @@ he usually attended it twice on First-days until his death.
 The following are extracts from a letter received from him dated: Fifth Month 21st, 1842.
 After alluding to the defection in the Church, he says,
 
+[.embedded-content-document.letter]
+--
+
 But we must not think as though some strange thing had happened,
 but such as is common to man.
 Poor man hews out to himself cisterns, broken cisterns, that can hold no water;
@@ -1032,6 +1181,8 @@ then shall we go on our way rejoicing in that peace and joy in believing,
 and (have) that peace of mind, which passeth all understanding.
 Now to Him, who only hath immortality, dwelling in the light,
 which no man can approach unto; to Him be honour and power everlasting.
+
+--
 
 William Bush was but little acquainted with the niceties of doctrine; his religion was,
 as he stated, one of the heart; what he knew, he knew experimentally;
